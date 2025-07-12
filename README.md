@@ -28,10 +28,8 @@ Source Code/DEEP LEARNING FOR DETECTING MALICIOUS SOFTWARE/
     ├── Xception with SAVE.ipynb
     └── Xception.ipynb
 
+---
 
-## 📂 `code/` Folder
-
-This directory contains all experiment-related files, including model training and prediction generation notebooks. It is organized into three subfolders: `Dataset1`, `Dataset2`, and `Dataset3`.
 
 ### 📌 Contents
 
@@ -94,13 +92,11 @@ This folder includes all datasets used for model training and evaluation. All da
 
 The primary objectives of this FYP are:
 
-**1. Problem Statement: **Malware poses a significant security threat. Traditional signature-based detection methods struggle with new and obfuscated samples. Deep learning approaches can learn rich visual patterns from malware images, improving detection of novel variants.
+**1. Problem Statement: ** Malware poses a significant security threat. Traditional signature-based detection methods struggle with new and obfuscated samples. Deep learning approaches can learn rich visual patterns from malware images, improving detection of novel variants.
 
 **2. Goals:**
-Convert raw malware binaries into grayscale images.
-Implement and compare multiple architectures (ResNet50, InceptionV3, Xception, Custom CNN) enhanced with SAVE layers.
-Integrate techniques such as SMOTE, data augmentation, batch normalization, L2 regularization, and dropout to address class imbalance and overfitting.
-Evaluate models using classification metrics (accuracy, precision, recall, F1-score) and confusion matrices.
+- Implement and compare multiple architectures (ResNet50, InceptionV3, Xception, Custom CNN) enhanced with SAVE layers.
+- Evaluate models using classification metrics (accuracy, precision, recall, F1-score) and confusion matrices.
 
 **3. Methodology:** Data preprocessing → Model design → Training and validation → Prediction generation → Performance analysis.
 
