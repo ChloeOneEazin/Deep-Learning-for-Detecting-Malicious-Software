@@ -64,9 +64,6 @@ Contents: Identical workflow as Blended notebooks, applied to the original Malwa
 
 ---
 
-## 📂 `dataset/` Folder
-
-This folder includes all datasets used for model training and evaluation. All datasets were sourced from Kaggle and are provided in `.csv` format for convenience.
 
 ### 📌 Datasets
 
@@ -102,7 +99,7 @@ The primary objectives of this FYP are:
 
 ---
 
-🚀 How to Run
+**🚀 How to Run**
 
 Clone the repository:
 
