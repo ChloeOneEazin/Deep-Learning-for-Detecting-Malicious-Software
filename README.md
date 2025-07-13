@@ -8,24 +8,43 @@ This repository contains the code, datasets, and documentation for the Final Yea
 
 .
 Source Code/DEEP LEARNING FOR DETECTING MALICIOUS SOFTWARE/
+
 ├── Source Code for Blended malware image/
+
 │   ├── DeiT with SAVE.ipynb
+
 │   ├── DeiT.ipynb
+
 │   ├── Inception with SAVE.ipynb
+
 │   ├── Inception.ipynb
+
 │   ├── ResNet 50 with SAVE.ipynb
+
 │   ├── ResNet.ipynb
+
 │   ├── Xception with SAVE.ipynb
+
 │   └── Xception.ipynb
+
 │
+
 └── Source Code for Malware as Images/
+
     ├── DeiT SAVE.ipynb
+    
     ├── DeiT.ipynb
+    
     ├── Inception with SAVE.ipynb
+    
     ├── Inception.ipynb
+    
     ├── ResNet with SAVE.ipynb
+    
     ├── ResNet.ipynb
+    
     ├── Xception with SAVE.ipynb
+    
     └── Xception.ipynb
 
 ---
@@ -41,13 +60,13 @@ Format: <Model>.ipynb and <Model> with SAVE.ipynb
 
 Models Included:
 
-DeiT & DeiT with SAVE
+- DeiT & DeiT with SAVE
 
-Inception & Inception with SAVE
+- Inception & Inception with SAVE
 
-ResNet 50 & ResNet 50 with SAVE
+- ResNet 50 & ResNet 50 with SAVE
 
-Xception & Xception with SAVE
+- Xception & Xception with SAVE
 
 Contents: Data loading via tf.data, model construction (backbone + SAVE layer), training with callbacks (best checkpoint), history plotting, validation & testing (classification report, confusion matrix), and final model export.
 
@@ -59,13 +78,13 @@ Format: <Model>.ipynb and <Model> SAVE.ipynb
 
 Models Included:
 
-DeiT & DeiT SAVE
+- DeiT & DeiT SAVE
 
-Inception & Inception with SAVE
+- Inception & Inception with SAVE
 
-ResNet & ResNet with SAVE
+- ResNet & ResNet with SAVE
 
-Xception & Xception with SAVE
+- Xception & Xception with SAVE
 
 Contents: Identical workflow as Blended notebooks, applied to the original Malware as Images dataset folder.
 
