@@ -129,7 +129,7 @@ The primary objectives of this FYP are:
 
 ---
 
-##🚀 How to Run
+**🚀 How to Run**
 
 Clone the repository:
 
