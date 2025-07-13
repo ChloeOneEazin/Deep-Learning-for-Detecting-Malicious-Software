@@ -11,23 +11,23 @@ Source Code/DEEP LEARNING FOR DETECTING MALICIOUS SOFTWARE/
 
 ├── Source Code for Blended malware image/
 
-│   ├── DeiT with SAVE.ipynb
+    ├── DeiT with SAVE.ipynb
 
-│   ├── DeiT.ipynb
+    ├── DeiT.ipynb
 
-│   ├── Inception with SAVE.ipynb
+    ├── Inception with SAVE.ipynb
 
-│   ├── Inception.ipynb
+    ├── Inception.ipynb
 
-│   ├── ResNet 50 with SAVE.ipynb
+    ├── ResNet 50 with SAVE.ipynb
 
-│   ├── ResNet.ipynb
+    ├── ResNet.ipynb
 
-│   ├── Xception with SAVE.ipynb
+    ├── Xception with SAVE.ipynb
 
-│   └── Xception.ipynb
+    └── Xception.ipynb
 
-│
+
 
 └── Source Code for Malware as Images/
 
