@@ -40,9 +40,13 @@ Location: Source Code/DEEP LEARNING FOR DETECTING MALICIOUS SOFTWARE/Source Code
 Format: <Model>.ipynb and <Model> with SAVE.ipynb
 
 Models Included:
+
 DeiT & DeiT with SAVE
+
 Inception & Inception with SAVE
+
 ResNet 50 & ResNet 50 with SAVE
+
 Xception & Xception with SAVE
 
 Contents: Data loading via tf.data, model construction (backbone + SAVE layer), training with callbacks (best checkpoint), history plotting, validation & testing (classification report, confusion matrix), and final model export.
@@ -54,9 +58,13 @@ Location: Source Code/DEEP LEARNING FOR DETECTING MALICIOUS SOFTWARE/Source Code
 Format: <Model>.ipynb and <Model> SAVE.ipynb
 
 Models Included:
+
 DeiT & DeiT SAVE
+
 Inception & Inception with SAVE
+
 ResNet & ResNet with SAVE
+
 Xception & Xception with SAVE
 
 Contents: Identical workflow as Blended notebooks, applied to the original Malware as Images dataset folder.
@@ -79,8 +87,11 @@ Contents: Identical workflow as Blended notebooks, applied to the original Malwa
 ## 💻 Technologies Used
 
 - Languages & Tools: Python, Jupyter Notebook
+  
 - Frameworks: TensorFlow/Keras, PyTorch (for baseline comparisons)
+  
 - Libraries: NumPy, pandas, scikit-learn, imbalanced-learn (SMOTE), matplotlib
+  
 - Hardware: NVIDIA GPU (CUDA)
 
 ---
