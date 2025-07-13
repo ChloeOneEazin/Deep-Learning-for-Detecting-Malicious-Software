@@ -6,7 +6,6 @@ This repository contains the code, datasets, and documentation for the Final Yea
 
 ## 📁 Project Structure
 
-.
 Source Code/DEEP LEARNING FOR DETECTING MALICIOUS SOFTWARE/
 
 ├── Source Code for Blended malware image/
@@ -129,7 +128,7 @@ The primary objectives of this FYP are:
 
 ---
 
-**🚀 How to Run**
+### 🚀 How to Run
 
 Clone the repository:
 
