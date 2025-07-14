@@ -135,10 +135,6 @@ Clone the repository:
 git clone https://github.com/ChloeOneEazin/Deep-Learning-for-Detecting-Malicious-Software.git
 cd Deep-Learning-for-Detecting-Malicious-Software
 
-Install dependencies:
-
-pip install -r requirements.txt
-
 Open Jupyter Notebooks:
 Use Jupyter Notebook or JupyterLab to navigate to any .ipynb file inside the relevant subfolders and execute the cells sequentially to train or test a model.
 
